@@ -1,0 +1,30 @@
+{
+    "project_info": {
+        "project_number": "621423842984",
+        "firebase_url": "https://firex-arena-f6da1-default-rtdb.firebaseio.com",
+        "project_id": "firex-arena-f6da1",
+        "storage_bucket": "firex-arena-f6da1.firebasestorage.app"
+    },
+    "client": [
+        {
+            "client_info": {
+                "mobilesdk_app_id": "1:621423842984:android:7615203f5672f9a039149d",
+                "android_client_info": {
+                    "package_name": "com.firexclub.app"
+                }
+            },
+            "oauth_client": [],
+            "api_key": [
+                {
+                    "current_key": "AIzaSyAMcVO-7x_v5VBRiFo86K6En2tWX6HpE4w"
+                }
+            ],
+            "services": {
+                "appinvite_service": {
+                    "other_platform_oauth_client": []
+                }
+            }
+        }
+    ],
+    "configuration_version": "1"
+}
